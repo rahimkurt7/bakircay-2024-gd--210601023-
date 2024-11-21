@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/FastMesh/Scenes/Scene Vegetable.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
